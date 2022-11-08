@@ -5,6 +5,7 @@
 | --: | -- | -- | --: | -- |
 |2022/10/31|[Fast and accurate short read alignment with Burrows-Wheeler transform](https://academic.oup.com/bioinformatics/article/25/14/1754/225615)|Li H. and Durbin R|Bioinformatics| [https://github.com/lh3/bwa](https://github.com/lh3/bwa)|
 |2022/11/07|[Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM](https://arxiv.org/pdf/1303.3997.pdf)|Li Heng|Bioinformatics| [https://github.com/lh3/bwa](https://github.com/lh3/bwa)|
+|2022/11/14|[High Throughput Short Read Alignment via Bi-directional BWT](https://hub.hku.hk/bitstream/10722/129577/1/Content.pdf)|T.W. Lam∗, Ruiqiang Li†, Alan Tam∗, Simon Wong∗, Edward Wu∗, S.M. Yiu∗|Bioinformatics| [https://github.com/lh3/bwa](https://github.com/lh3/bwa)|
 ## 论文主题
 ### 短序列（读长）比对算法（Short read alignment）
 
